@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
   background-color: blue;
 
   color: pink;
@@ -12,9 +11,7 @@ body {
   font-size: 2rem;
   list-style: none;
   font-style: italic;
-=======
-    background-color: blue;
-    color: white;
-    font-family: "Courier New", Courier, monospace;
->>>>>>> parent of a535075 (ads)
+  background-color: blue;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
 }
